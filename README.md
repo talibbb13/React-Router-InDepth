@@ -1,5 +1,3 @@
-
-```markdown
 # React Router Project
 
 This project is a simple web application built using React Router. It utilizes dynamic routing, fetches data from the GitHub API, and employs various React Router components.
